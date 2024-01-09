@@ -1,9 +1,8 @@
-<h1 align="center">Hey 👋, I'm Ravnish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center">Hi, I'm Ravnish Kumar</h1>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, PYTHON, MySQL.**
+-  I’m currently learning **HTML, CSS, JAVASCRIPT, PYTHON, MySQL.**
 
-- 👯 I’m looking to collaborate on **Frontend web development projects.**
+-  Interested to collaborate on **Frontend web development projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
