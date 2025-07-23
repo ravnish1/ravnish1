@@ -40,6 +40,6 @@
 ---
 
 ### 📫 Reach me at:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 📬 Email: your@email.com *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravnish-kumar/)
+- 📬 Email: ravnishkumar583@gmail.com
 
