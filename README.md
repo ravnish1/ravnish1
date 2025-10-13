@@ -27,6 +27,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -41,5 +44,5 @@
 
 ### 📫 Reach me at:
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravnish-kumar/)
-- 📬 Email: ravnishkumar583@gmail.com
+- 📬 [Mail](ravnishkumar583@gmail.com)
 
