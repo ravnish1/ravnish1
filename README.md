@@ -5,9 +5,8 @@
 
 ### 🚀 About Me
 - 💡 Passionate about **building impactful tech products**
-- 🧠 Exploring **AI, Automation & System Design**
+- 🧠 Learning **AI, Automations & System Design**
 - 🛠️ Currently working on **real-world projects & scalable solutions**
-- 🎯 Goal: Becoming a **strong ML + Systems Engineer (MLOps)**
 
 ---
 
