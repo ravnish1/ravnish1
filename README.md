@@ -1,82 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ravnish Kumar</h1>
-<h3 align="center">Building Scalable Systems • Exploring AI • Crafting Digital Experiences</h3>
-
----
-
-### 🚀 About Me
-- 💡 Passionate about **building impactful tech products**
-- 🧠 Learning **AI, Automations & System Design**
-- 🛠️ Currently working on **real-world projects & scalable solutions**
-
----
-
-### 🧰 Tech Stack
-
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Web</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Tools</b></td>
-<td align="center"><b>IoT</b></td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="35"/>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/>
-<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="35"/>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Espressif_Logo.svg" width="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ArduPilot_logo.png" width="35"/>
-</td>
-</tr>
-</table>
-
-<p>
-<strong>Also:</strong> Drone Systems • Calibration • Flight Control • Embedded Integration • n8n • Claude
-</p>
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravnish1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravnish1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ravnish-kumar/
-- 📬 **Email:** ravnishkumar583@gmail.com
-
----
-
-### ⚡ What I'm Focused On
-> Building systems that **solve real problems**, not just projects that sit in repositories.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ravnish1/ravnish1/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ravnish1/ravnish1/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ravnish1/ravnish1/output/github-snake.svg"
+  />
+</picture>
